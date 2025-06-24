@@ -13,3 +13,7 @@ Sample website with plenty of files for demos, and testing of git.
 ## Deployment
 
 Maybe this is...
+
+### Copyright
+
+2014 Bickong
