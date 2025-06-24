@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    John Reyvi Gravidez -- Student -- @Bickong
 
 # THANKS
 
