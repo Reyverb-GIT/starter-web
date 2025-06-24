@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work. As of now i am learning 
 
 ## Introduction
 
-This is for testing comparison.
+This is for testing comparison. Using diff and merge via p4merge.
 
 ## Purpose
 
