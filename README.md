@@ -17,4 +17,4 @@ Still a mystery...
 
 ### Copyright
 
-2014 Bickong
+2014 Bickong. The better.
